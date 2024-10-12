@@ -1,4 +1,4 @@
-# Luis_Portfolio
+# Luis Granja
 Data Science Portfolio
 
 # [Project 1: Data Science Salary Estimator: Project Overview](https://github.com)
